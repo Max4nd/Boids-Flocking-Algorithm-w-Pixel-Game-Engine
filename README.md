@@ -1,4 +1,4 @@
-![alt text](Boids-Flocking-Algorithm-w-Pixel-Game-Engine/blob/master/screenshot.PNG)
+![alt text](https://github.com/Max4nd/Boids-Flocking-Algorithm-w-Pixel-Game-Engine/blob/master/screenshot.PNG)
 
 # Boids-Flocking-Algorithm-w-Pixel-Game-Engine
 A basic implementation of a Boid Flocking Simulation, made with the OLC Pixel Game Engine.
